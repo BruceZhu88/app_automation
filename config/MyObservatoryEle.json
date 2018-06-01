@@ -1,0 +1,13 @@
+{
+  "agree": "hko.MyObservatory_v1_0:id/btn_agree",
+  "not_agree": "hko.MyObservatory_v1_0:id/btn_not_agree",
+  "whats_new": "hko.MyObservatory_v1_0:id/whatsNewTitle",
+  "whats_new_close": "hko.MyObservatory_v1_0:id/btn_friendly_reminder_skip",
+  "home_btn": "hko.MyObservatory_v1_0:id/home_page",
+  "side_menu_btn": "android.widget.ImageButton",
+  "9_day_forecast_btn": "9-Day Forecast",
+  "9_day_forecast_title": "9-Day Forecast",
+  "title_selected": "android.support.v7.app.ActionBar$Tab",
+  "forecast_dates": "hko.MyObservatory_v1_0:id/sevenday_forecast_date"
+}
+

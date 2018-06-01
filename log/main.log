@@ -1,0 +1,23 @@
+2018-04-28 14:21:28-INFO: Connecting with your phone ... [baseCase.py:22]
+2018-04-28 14:21:32-ERROR: Cannot connect to your phone: <urlopen error [WinError 10061] No connection could be made because the target machine actively refused it> [baseCase.py:32]
+2018-04-28 14:27:09-INFO: Connecting with your phone ... [baseCase.py:22]
+2018-04-28 14:28:16-ERROR: Cannot connect to your phone: Message: An unknown server-side error occurred while processing the command. Original error: Error occured while starting App. Original error: Activity used to start app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity
+ [baseCase.py:32]
+2018-04-28 14:28:25-INFO: Connecting with your phone ... [baseCase.py:22]
+2018-04-28 14:29:15-ERROR: Cannot connect to your phone: Message: An unknown server-side error occurred while processing the command. Original error: Error occured while starting App. Original error: Activity used to start app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity
+ [baseCase.py:32]
+2018-04-28 15:06:30-INFO: Connecting with your phone ... [run.py:28]
+2018-04-28 15:06:34-ERROR: Cannot connect to your phone: Message: An unknown server-side error occurred while processing the command. Original error: Could not find package hko.MyObservatory_v1_0 on the device
+ [run.py:38]
+2018-04-28 15:13:33-INFO: Connecting with your phone ... [run.py:28]
+2018-04-28 15:15:00-ERROR: Cannot connect to your phone: [WinError 10054] An existing connection was forcibly closed by the remote host [run.py:38]
+2018-04-28 15:17:39-INFO: Connecting with your phone ... [run.py:28]
+2018-04-28 15:18:02-ERROR: Cannot connect to your phone: Message: An unknown server-side error occurred while processing the command. Original error: Error occured while starting App. Original error: Activity used to start app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity
+ [run.py:38]
+2018-04-28 15:31:38-INFO: Connecting with your phone ... [run.py:28]
+2018-04-28 15:31:58-ERROR: Cannot connect to your phone: Message: An unknown server-side error occurred while processing the command. Original error: Error occured while starting App. Original error: Activity used to start app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity
+ [run.py:38]
+2018-04-28 16:11:29-ERROR: Please check your phone [run.py:26]
+2018-04-28 16:12:07-INFO: Connecting with your phone ... [run.py:28]
+2018-04-28 16:12:57-ERROR: Cannot connect to your phone: Message: An unknown server-side error occurred while processing the command. Original error: Error occured while starting App. Original error: Activity used to start app doesn't exist or cannot be launched! Make sure it exists and is a launchable activity
+ [run.py:38]
